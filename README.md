@@ -2,6 +2,12 @@
 
 **P**ush**B**ullet module for **N**im 
 
+Build:
+
+```
+nim c -d:ssl pbm.nim
+```
+
 Usage:
 
 ```
